@@ -19,5 +19,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "PracticeProject"
 include(":app")
+=======
+rootProject.name = "Matching Game"
+include(":app")
+ 
+>>>>>>> 91f8bb15bc05bddc8b82a4b8c37038aa446e62ea

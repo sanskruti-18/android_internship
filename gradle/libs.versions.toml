@@ -8,9 +8,12 @@ espressoCore = "3.6.1"
 lifecycleRuntimeKtx = "2.9.1"
 activityCompose = "1.10.1"
 composeBom = "2024.09.00"
+<<<<<<< HEAD
 firebaseAuthKtx = "23.2.1"
 appcompat = "1.7.1"
 media3CommonKtx = "1.7.1"
+=======
+>>>>>>> 91f8bb15bc05bddc8b82a4b8c37038aa446e62ea
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -27,9 +30,12 @@ androidx-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-toolin
 androidx-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
 androidx-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
 androidx-material3 = { group = "androidx.compose.material3", name = "material3" }
+<<<<<<< HEAD
 firebase-auth-ktx = { group = "com.google.firebase", name = "firebase-auth-ktx", version.ref = "firebaseAuthKtx" }
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 androidx-media3-common-ktx = { group = "androidx.media3", name = "media3-common-ktx", version.ref = "media3CommonKtx" }
+=======
+>>>>>>> 91f8bb15bc05bddc8b82a4b8c37038aa446e62ea
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
